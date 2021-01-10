@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "root",
+      "password": "R!08$yanS1999",
+      "database": "passport_demo",
+      "host": "3306",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "R!08$yanS1999",
+      "database": "database_test",
+      "host": "3306",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": "R!08$yanS1999",
+      "database": "database_production",
+      "host": "3306",
+      "dialect": "mysql"
+    }
+  }
